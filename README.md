@@ -8,5 +8,5 @@ Pipeline:
 3. Run.
 
 Note:
-1. if you want to change the mask size, change the mask function input in loadfile func. 
-2. if you want to change the window size, 
+1. If you want to change the mask size, change the mask function input in loadfile func. 
+2. You also can change the window size .
